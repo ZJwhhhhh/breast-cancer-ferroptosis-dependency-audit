@@ -1,0 +1,12 @@
+keyword_cluster,cluster_label,R1_residual,R2_residual,R3_residual
+K0,Cell-death regulation and chemosensitization,0.062,-0.113,-0.036
+K1,TNBC stemness and chemoresistance,0.354,-0.412,-0.390
+K2,Expression signatures and neoadjuvant response,0.007,0.155,-0.139
+K3,Ferroptosis nanomedicine and treatment response,-0.325,0.471,0.283
+K4,Paclitaxel combination therapy and resistance,-0.064,-0.210,0.301
+K5,Glutathione-redox antitumor mechanisms,-0.139,0.145,0.167
+K6,Iron-based doxorubicin nanodelivery,-0.074,0.153,0.027
+K7,Cisplatin-linked ferroptosis susceptibility,-0.198,-0.055,0.450
+K8,Metabolic reprogramming and autophagic resistance,-0.167,0.333,0.073
+K9,ERalpha-EMT-stemness resistance,0.424,-0.502,-0.460
+

@@ -1,0 +1,55 @@
+{
+  "candidate_reports": 63,
+  "strict_reports": 42,
+  "excluded_or_context_reports": 21,
+  "second_review_coded": 62,
+  "exact_agreement": 45,
+  "agreement_denominator": 62,
+  "raw_agreement": 0.7258064516129032,
+  "cohen_kappa": 0.41051454138702476,
+  "distinct_team_lineages": 38,
+  "conservative_model_or_provenance_lineages": 45,
+  "claim_units": 20,
+  "independent_units_primary": 37,
+  "independent_units_sensitivity": 39,
+  "global_primary_retention_fraction": 0.8809523809523809,
+  "global_sensitivity_retention_fraction": 0.9285714285714286,
+  "reports_with_any_unresolved_provenance": 23,
+  "tier_counts": {
+    "T0": 6,
+    "T1": 7,
+    "T2": 16,
+    "T3": 13
+  },
+  "mechanism_counts": {
+    "GPX4/xCT/redox defense": 25,
+    "Iron handling/ferritinophagy": 11,
+    "Other target-specific mechanism": 4,
+    "Microenvironment/immune": 1,
+    "FSP1/CoQ bypass": 1
+  },
+  "drug_counts": {
+    "Anthracycline": 20,
+    "Platinum": 11,
+    "Taxane": 7,
+    "Multi-drug": 4
+  },
+  "subtype_counts": {
+    "TNBC": 21,
+    "Mixed/unspecified": 15,
+    "Luminal/ER-positive": 6
+  },
+  "evidence_level_counts_primary": {
+    "E1": 11,
+    "E2": 0,
+    "E3": 2,
+    "E4": 7
+  },
+  "evidence_level_counts_sensitivity": {
+    "E1": 11,
+    "E2": 0,
+    "E3": 2,
+    "E4": 7
+  },
+  "lineage_rule": "Primary analysis merges unresolved identical parent-cell/drug families; the deterministic sensitivity analysis splits only those unresolved labels by report."
+}

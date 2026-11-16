@@ -1,0 +1,13 @@
+stage,count,definition
+records_screened,442,Web of Science universe screened
+mapped_publications,135,118 Articles plus 17 Reviews
+primary_articles,118,Original Articles entering the structural corpus
+external_review_records,44,Reports in the external 2026 systematic-review evidence table
+external_overlap,32,External reports overlapping the 118-Article corpus
+unique_candidates,63,DOI-reconciled candidates entering evidence audit
+strict_acquired_resistance_reports,42,Reports meeting strict acquired-resistance eligibility
+context_or_excluded_reports,21,Candidates not meeting strict eligibility
+claim_units,20,Mechanism by drug by subtype cells
+independent_units_primary,37,Conservative claim-specific team-model maximum matching
+independent_units_sensitivity,39,Upper bound after splitting unresolved model labels by report
+

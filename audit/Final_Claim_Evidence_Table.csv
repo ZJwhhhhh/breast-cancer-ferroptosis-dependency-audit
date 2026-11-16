@@ -1,0 +1,21 @@
+﻿Claim_ID,Mechanism,Drug_class,Subtype,Strict_reports,Distinct_teams,Conservative_model_lineages,Independent_units_primary,Independent_units_sensitivity,Primary_retention_fraction,Sensitivity_retention_fraction,Aligned_T2_T3_units_primary,Aligned_T2_T3_units_sensitivity,Evidence_level_primary,Evidence_level_sensitivity,Audit_IDs
+C01,GPX4/xCT/redox defense,Platinum,TNBC,7,5,6,5,5,0.7142857142857143,0.7142857142857143,2,2,E4,E4,R58; R65; R73; R74; W13; W23; W25
+C02,GPX4/xCT/redox defense,Anthracycline,Mixed/unspecified,6,6,7,4,6,0.6666666666666666,1.0,4,5,E4,E4,R37; R50; R52; R55; W87; W93
+C03,GPX4/xCT/redox defense,Anthracycline,TNBC,3,3,7,3,3,1.0,1.0,3,3,E4,E4,R56; R69; W14
+C04,GPX4/xCT/redox defense,Taxane,TNBC,3,3,5,3,3,1.0,1.0,2,2,E4,E4,R48; R67; W2
+C05,Iron handling/ferritinophagy,Anthracycline,Mixed/unspecified,3,2,3,2,2,0.6666666666666666,0.6666666666666666,2,2,E4,E4,R31; R40; R49
+C06,Iron handling/ferritinophagy,Anthracycline,TNBC,3,3,7,3,3,1.0,1.0,3,3,E4,E4,R35; R39; R62
+C07,GPX4/xCT/redox defense,Anthracycline,Luminal/ER-positive,2,2,2,2,2,1.0,1.0,0,0,E3,E3,R57; W101
+C08,GPX4/xCT/redox defense,Multi-drug,Mixed/unspecified,2,2,2,2,2,1.0,1.0,1,1,E3,E3,R44; R46
+C09,Iron handling/ferritinophagy,Taxane,TNBC,2,2,2,2,2,1.0,1.0,2,2,E4,E4,R66; W32
+C10,FSP1/CoQ bypass,Platinum,Luminal/ER-positive,1,1,1,1,1,1.0,1.0,0,0,E1,E1,W7
+C11,GPX4/xCT/redox defense,Multi-drug,TNBC,1,1,1,1,1,1.0,1.0,1,1,E1,E1,R43
+C12,GPX4/xCT/redox defense,Platinum,Luminal/ER-positive,1,1,1,1,1,1.0,1.0,1,1,E1,E1,W20
+C13,Iron handling/ferritinophagy,Anthracycline,Luminal/ER-positive,1,1,2,1,1,1.0,1.0,1,1,E1,E1,W56
+C14,Iron handling/ferritinophagy,Platinum,TNBC,1,1,1,1,1,1.0,1.0,1,1,E1,E1,R38
+C15,Iron handling/ferritinophagy,Taxane,Mixed/unspecified,1,1,2,1,1,1.0,1.0,1,1,E1,E1,R33
+C16,Microenvironment/immune,Anthracycline,Mixed/unspecified,1,1,1,1,1,1.0,1.0,1,1,E1,E1,R47
+C17,Other target-specific mechanism,Anthracycline,Luminal/ER-positive,1,1,1,1,1,1.0,1.0,1,1,E1,E1,W18
+C18,Other target-specific mechanism,Multi-drug,Mixed/unspecified,1,1,2,1,1,1.0,1.0,0,0,E1,E1,W50
+C19,Other target-specific mechanism,Platinum,Mixed/unspecified,1,1,1,1,1,1.0,1.0,1,1,E1,E1,W114
+C20,Other target-specific mechanism,Taxane,TNBC,1,1,2,1,1,1.0,1.0,0,0,E1,E1,R70

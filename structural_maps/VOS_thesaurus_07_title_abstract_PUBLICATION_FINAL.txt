@@ -1,0 +1,319 @@
+label	replace by
+absence	
+absolute shrinkage	
+acsl4	ACSL4
+administration	
+agent	
+agents	
+aggressive subtype	
+application	
+assay	
+association	
+background	
+bc cell	
+bcsc	breast cancer stem cells
+bcscs	breast cancer stem cells
+bioinformatics analysis	
+breast cancer	
+breast cancer patient	
+breast cancer therapy	
+breast cancer treatment	
+breast-cancer	
+cancer cell	
+cancer cells	
+cancer stem cell	breast cancer stem cells
+cancer stem cells	breast cancer stem cells
+cell	
+cell line	
+cells	
+cck	
+cck-8	
+cddp	cisplatin
+cell viability	
+challenge	
+chemo-resistance	chemotherapy resistance
+chemo resistance	chemotherapy resistance
+chemoresistance	chemotherapy resistance
+chemotherapeutic agent	
+clinical trial	clinical translation
+colony formation	
+correlation	
+crucial role	
+data	
+database	
+adriamycin	doxorubicin
+adriamycin resistance	doxorubicin resistance
+dox	doxorubicin
+dox resistance	doxorubicin resistance
+doxorubicin-resistance	doxorubicin resistance
+drug resistance	chemotherapy resistance
+drug-resistance	chemotherapy resistance
+drug-resistant	chemotherapy resistance
+multidrug resistance	chemotherapy resistance
+drug sensitivity	chemosensitivity
+effectiveness	
+emt	epithelial-mesenchymal transition
+evidence	
+fe2	ferrous iron (Fe2+)
+fe2+	ferrous iron (Fe2+)
+ferroptosis inducer	ferroptosis induction
+ferroptosis inhibitor	ferroptosis inhibition
+ferroptotic cell death	
+flow cytometry	
+form	
+gene	
+genes	
+glutathione	glutathione/GSH
+gsh	glutathione/GSH
+gsh level	glutathione/GSH
+glutathione peroxidase	GPX4
+glutathione peroxidase 4	GPX4
+gpx4	GPX4
+gpx4 expression	GPX4
+health	
+human epidermal growth factor receptor	
+important role	
+immunotherapy	
+inducing ferroptosis	ferroptosis induction
+induction	
+involvement	
+key regulator	
+knockdown	
+limitation	
+lipid peroxide	lipid peroxidation
+lipid peroxides	lipid peroxidation
+low risk group	
+major challenge	
+malignancy	
+malondialdehyde	malondialdehyde (MDA)
+mda	malondialdehyde (MDA)
+mcf	
+mcf-7	
+mechanistic study	
+member	
+mechanism	
+mechanisms	
+method	
+methods	
+mir	microRNA
+mirna	microRNA
+mof	MOF/KAT8
+mortality	
+new insight	
+novel strategy	
+nrf2	NRF2
+potential mechanism	
+potential therapeutic target	
+present study	
+process	
+prognosis	
+promising strategy	
+protein	
+protein expression	
+purpose	
+radiotherapy	
+recurrence	
+regulatory mechanism	
+rescue experiment	
+research	
+result	
+results	
+review	
+risk score	
+ros	reactive oxygen species (ROS)
+ros level	reactive oxygen species (ROS)
+reactive oxygen species	reactive oxygen species (ROS)
+rt pcr	
+rt qpcr	
+rt-qpcr	
+signature	
+slc7a11	SLC7A11/system Xc-
+solute carrier family	SLC7A11/system Xc-
+system xc-	SLC7A11/system Xc-
+system xc−	SLC7A11/system Xc-
+xct	SLC7A11/system Xc-
+stability	
+study	
+studies	
+survival	
+system	
+targeted therapy	
+t cell	T cells
+t cells	T cells
+tcga	
+therapeutic effect	
+therapeutic efficacy	
+therapeutic potential	
+therapeutic resistance	chemotherapy resistance
+therapy	
+tme	tumor microenvironment
+tnbc	
+tnbc cell line	
+tnbc patient	
+tnbc tissue	
+tnbc treatment	
+transmission electron microscopy	
+triple -negative breast cancer	
+triple negative breast cancer	
+triple negative breast cancer (tnbc)	
+triple-negative breast cancer	
+triple-negative breast cancer (tnbc)	
+tumor cell	
+tumor cells	
+tumor tissue	
+patient	
+patients	
+tissue	
+tissues	
+treatment	
+underlying mechanism	
+value	
+western blot	
+western blotting	
+woman	
+xenograft model	
+ability	
+addition	
+activity	
+activation	
+alpha	
+analysis	
+approach	
+author	
+authors	
+biomarker	
+biomarkers	
+cancer	
+cancer patient	
+cancer therapy	
+cancer treatment	
+change	
+changes	
+chemotherapy	
+chemotherapy response	chemosensitivity
+clinical application	
+clinical significance	
+compound	
+conclusion	
+conclusions	
+development	
+down-regulation	
+downregulation	
+drug	
+drugs	
+drug response	chemosensitivity
+effect	
+effects	
+electron	
+electron microscopy	
+experiment	
+experiments	
+expression	
+expression level	
+expression levels	
+ferroptosis	
+finding	
+findings	
+impact	
+importance	
+in vitro	
+in vivo	
+inhibition	
+insight	
+level	
+levels	
+microscopy	
+model	
+models	
+modulation	
+mouse	
+mice	
+animal model	
+animal experiment	
+occurrence	
+paper	
+pathway	
+pathways	
+pcr	
+potential	
+preclinical model	
+promotion	
+q-pcr	
+qpcr	
+quantitative pcr	
+regulation	
+regulator	
+relationship	
+relationships	
+response	
+resistance	
+risk group	
+role	
+sensitivity	
+significance	
+strategy	
+suppression	
+target	
+targets	
+therapeutic strategy	
+therapeutic target	
+therapy resistance	chemotherapy resistance
+treatment resistance	chemotherapy resistance
+tumor	
+tumour	
+tumour cell	
+tumour cells	
+tumour tissue	
+up-regulation	
+upregulation	
+viability	
+western blot analysis	
+western blot assay	
+work	
+xenograft	
+xenograft experiment	
+death	
+cell death	
+group	
+groups	
+inhibitor	
+inhibitors	
+interaction	
+interactions	
+mda mb	
+mda mb 231	
+mda mb 468	
+mda-mb	
+mda-mb-231	
+mda-mb-468	
+mda-mb-231 cells	
+mda-mb-468 cells	
+progression	tumor progression
+subtype	
+subtypes	
+type	
+types	
+accumulation	
+axis	
+breast cancer cell	
+breast cancer cells	
+combination	combination therapy
+depletion	
+efficacy	
+formation	
+function	
+growth	
+heterogeneity	tumor heterogeneity
+molecular	
+molecular mechanism	
+poor	
+poor prognosis	
+receptor	
+tnbc cell	
+tnbc cells	
+triple negative breast cancer cell	
+triple negative breast cancer cells	
+triple-negative breast cancer cell	
+triple-negative breast cancer cells	
+vitro	
+vivo	

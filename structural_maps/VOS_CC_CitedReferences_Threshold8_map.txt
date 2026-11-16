@@ -1,0 +1,49 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Citations>
+356	"bersuker k, 2019, nature, v575, p688, doi 10.1038/s41586-019-1705-2"	-0.0246	0.9061	2	40	107	10
+383	"bianchini g, 2016, nat rev clin oncol, v13, p674, doi 10.1038/nrclinonc.2016.66"	0.3863	-0.5168	1	43	90	12
+384	"bianchini g, 2022, nat rev clin oncol, v19, p91, doi 10.1038/s41571-021-00565-2"	1.1828	-0.1383	1	24	46	10
+449	"bray f, 2024, ca-cancer j clin, v74, p229, doi 10.3322/caac.21834"	0.917	0.0788	1	27	48	12
+767	"chen x, 2021, nat rev clin oncol, v18, p280, doi 10.1038/s41571-020-00462-0"	0.2827	-0.0238	1	46	152	18
+1178	"ding yh, 2021, j hematol oncol, v14, doi 10.1186/s13045-020-01016-8"	-0.9544	0.2792	2	40	123	11
+1181	"dixon sj, 2012, cell, v149, p1060, doi 10.1016/j.cell.2012.03.042"	-0.0061	-0.1875	3	47	307	47
+1187	"dixon sj, 2024, nat rev mol cell bio, v25, p424, doi 10.1038/s41580-024-00703-5"	0.2227	0.8233	1	32	49	8
+1197	"doll s, 2017, nat chem biol, v13, p91, doi [10.1038/nchembio.2239 10.1038/nchembio.2239]"	-0.1152	0.1213	3	46	148	16
+1198	"doll s, 2019, nature, v575, p693, doi 10.1038/s41586-019-1707-0"	-0.1707	0.6396	2	43	104	10
+1494	"foulkes wd, 2010, new engl j med, v363, p1938, doi 10.1056/nejmra1001389"	0.4845	-0.8475	1	28	45	9
+1589	"gao mh, 2015, mol cell, v59, p298, doi 10.1016/j.molcel.2015.06.011"	-0.8559	-0.5139	3	38	74	8
+1825	"guo jp, 2018, cancer res treat, v50, p445, doi 10.4143/crt.2016.572"	-0.2048	-0.7651	3	33	59	11
+1914	"hangauer mj, 2017, nature, v551, p247, doi 10.1038/nature24297"	0.5818	-0.3273	1	45	124	14
+1954	"hassannia b, 2019, cancer cell, v35, p830, doi 10.1016/j.ccell.2019.04.002"	0.1353	0.3119	1	41	112	15
+2091	"hou w, 2016, autophagy, v12, p1425, doi 10.1080/15548627.2016.1187366"	-0.4301	-0.8907	3	31	48	10
+2341	"jiang xj, 2021, nat rev mol cell bio, v22, p266, doi 10.1038/s41580-020-00324-8"	0.447	0.1615	1	46	227	33
+2355	"jiang yz, 2019, cancer cell, v35, p428, doi 10.1016/j.ccell.2019.02.001"	0.821	0.6645	1	26	47	9
+2625	"koppula p, 2021, protein cell, v12, p599, doi 10.1007/s13238-020-00789-5"	0.0139	-0.4186	2	41	96	13
+2825	"lei g, 2022, nat rev cancer, v22, p381, doi 10.1038/s41568-022-00459-0"	0.3917	0.5181	1	46	169	21
+2890	"li hy, 2022, j hematol oncol, v15, doi 10.1186/s13045-021-01223-x"	-0.5779	0.0692	2	43	141	11
+2898	"li j, 2020, cell death dis, v11, doi 10.1038/s41419-020-2298-2"	-0.1753	-0.6629	3	40	92	13
+3045	"li y, 2022, j hematol oncol, v15, doi 10.1186/s13045-022-01341-0"	1	-0.1201	1	32	54	14
+3099	"li zq, 2020, biomark res, v8, doi 10.1186/s40364-020-00230-3"	-0.2344	-0.3692	2	38	85	11
+3556	"ma s, 2016, cell death dis, v7, doi 10.1038/cddis.2016.208"	-0.9797	-0.1964	3	38	114	10
+3653	"mao c, 2021, nature, v593, p586, doi 10.1038/s41586-021-03539-7"	-0.296	0.797	2	41	99	8
+3962	"nedeljkovic m, 2019, cells-basel, v8, doi 10.3390/cells8090957"	0.7799	-0.443	1	35	53	8
+4726	"sha r, 2021, ebiomedicine, v71, doi 10.1016/j.ebiom.2021.103560"	-0.5017	0.3739	2	44	132	13
+4963	"song x, 2020, front oncol, v10, doi 10.3389/fonc.2020.597434"	-0.7193	-0.4685	3	38	80	10
+5021	"stockwell br, 2017, cell, v171, p273, doi 10.1016/j.cell.2017.09.021"	0.2703	-0.2592	1	45	196	25
+5025	"stockwell br, 2022, cell, v185, p2401, doi 10.1016/j.cell.2022.06.003"	-0.2286	-0.2419	2	42	115	15
+5141	"sung h, 2021, ca-cancer j clin, v71, p209, doi 10.3322/caac.21660"	-0.3201	-0.612	3	44	111	21
+5222	"tang dl, 2021, cell res, v31, p107, doi 10.1038/s41422-020-00441-1"	-0.0944	0.4146	2	42	112	15
+5431	"ursini f, 2020, free radical bio med, v152, p175, doi 10.1016/j.freeradbiomed.2020.02.027"	0.9147	0.569	1	25	43	9
+5496	"verma n, 2020, sci adv, v6, doi 10.1126/sciadv.aba8968"	0.6071	0.2569	1	42	105	11
+5519	"viswanathan vs, 2017, nature, v547, p453, doi 10.1038/nature23007"	0.424	0.3824	1	39	83	9
+5543	"waks ag, 2019, jama-j am med assoc, v321, p288, doi 10.1001/jama.2018.19323"	0.1051	-0.59	3	44	78	9
+5738	"wang wm, 2019, nature, v569, p270, doi 10.1038/s41586-019-1170-y"	-0.7902	-0.0727	2	36	72	9
+5805	"wang ym, 2023, drug resist update, v66, doi 10.1016/j.drup.2022.100916"	-0.5906	0.5756	2	34	54	9
+6188	"xu t, 2019, j cell mol med, v23, p4900, doi 10.1111/jcmm.14511"	-1.0864	0.0377	3	36	88	8
+6291	"yang f, 2022, cell metab, v35, p84, doi 10.1016/j.cmet.2022.09.021"	0.1619	0.4877	1	46	181	24
+6307	"yang jj, 2021, j exp clin canc res, v40, doi 10.1186/s13046-021-02012-7"	-0.9738	0.3984	2	39	137	12
+6340	"yang ws, 2008, chem biol, v15, p234, doi 10.1016/j.chembiol.2008.02.010"	-0.4153	-0.1655	3	40	82	9
+6341	"yang ws, 2014, cell, v156, p317, doi 10.1016/j.cell.2013.12.010"	0.4354	-0.112	1	47	200	25
+6404	"yao xx, 2021, j nanobiotechnol, v19, doi 10.1186/s12951-021-01058-1"	-0.853	0.1282	2	40	119	11
+6441	"yin l, 2020, breast cancer res, v22, doi 10.1186/s13058-020-01296-5"	1.3063	-0.241	1	20	32	8
+6618	"zhang c, 2022, mol cancer, v21, doi 10.1186/s12943-022-01530-y"	0.5428	-0.1774	1	43	125	22
+6658	"zhang j, 2021, biomaterials, v266, doi 10.1016/j.biomaterials.2020.120429"	-0.8157	0.3669	2	40	116	9

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated article and archived repository release."
+title: "Breast-cancer ferroptosis dependency audit"
+type: dataset
+authors:
+  - family-names: Zhao
+    given-names: Jiawang
+  - family-names: Sun
+    given-names: Mohan
+  - family-names: Hu
+    given-names: Yangyang
+  - family-names: Yin
+    given-names: Ping
+version: 0.1.0
+date-released: 2026-11-15
+repository-code: "https://github.com/ZJwhhhhh/breast-cancer-ferroptosis-dependency-audit"
+license: "TO-BE-CONFIRMED"
+

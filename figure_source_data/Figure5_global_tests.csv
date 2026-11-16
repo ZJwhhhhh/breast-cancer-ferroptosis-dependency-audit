@@ -1,0 +1,4 @@
+analysis,bridge_documents,observed_statistic,null_mean,null_sd,global_z,empirical_p,cramers_v,max_abs_residual,interpretation
+Primary fractional-count weighting,117,2.185670,3.201247,1.156138,-0.878422,0.817037,0.096646,0.502,No K-R cell significant after BH correction
+Binary presence sensitivity,117,2.4051,2.4377,NA,-0.039902,0.47091,0.101382,0.55492,Sensitivity analysis also showed limited departure from independence
+
